@@ -34,10 +34,6 @@ A Machine Learning project that classifies messages as **Spam** or **Ham (Not Sp
 
 ---
 
-## ▶️ Run Locally
+## 🌐 Live Demo
+https://spam-email-detector-iryme5ceh5pqtfpadocqkv.streamlit.app/
 
-```bash
-git clone https://github.com/habib-mallick-ai/spam-email-detector.git
-cd spam-email-detector
-pip install -r requirements.txt
-streamlit run app.py
